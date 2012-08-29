@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideScroller", "SideScroller\SideScroller\SideScroller.csproj", "{05FBA5DE-6995-432B-85AC-EFE4F7646BC6}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SideScrollerContent", "SideScroller\SideScrollerContent\SideScrollerContent.contentproj", "{3FA5E01E-0A63-4BC2-85DF-C85F62F1E5DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05FBA5DE-6995-432B-85AC-EFE4F7646BC6}.Debug|x86.ActiveCfg = Debug|x86
+		{05FBA5DE-6995-432B-85AC-EFE4F7646BC6}.Debug|x86.Build.0 = Debug|x86
+		{05FBA5DE-6995-432B-85AC-EFE4F7646BC6}.Release|x86.ActiveCfg = Release|x86
+		{05FBA5DE-6995-432B-85AC-EFE4F7646BC6}.Release|x86.Build.0 = Release|x86
+		{3FA5E01E-0A63-4BC2-85DF-C85F62F1E5DD}.Debug|x86.ActiveCfg = Debug|x86
+		{3FA5E01E-0A63-4BC2-85DF-C85F62F1E5DD}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
